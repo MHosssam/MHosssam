@@ -7,3 +7,14 @@ Mohamed Hossam is a recent graduate from the College of CIS in Mansoura with an 
 - 👯 I’m looking to collaborate on Flutter & Android
 - 📫 How to reach me: send me email on mhosssam000@gmail.com
 
+### Technical Skills
+- Dart
+- Flutter
+- Getx State management
+- Hive
+- Swagger Api
+- Java
+- Android
+- Rest API
+
+

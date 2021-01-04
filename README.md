@@ -8,11 +8,16 @@ Mohamed Hossam is a recent graduate from the College of CIS in Mansoura with an 
 - 📫 How to reach me: send me email on mhosssam000@gmail.com
 
 ### Technical Skills
-- Dart                                              - Java
-- Flutter                                           - Android                                           
-- Getx State management                             - Rest API
-- Hive                                              - Adobe Photoshop.
-- Swagger Api                                       - Adobe Illustrator.
+- Dart                                              
+- Flutter  
+- Swagger Api   
+- Hive  
+- Getx State management 
+- Java
+- Android 
+- Rest API                                            
+- Adobe Photoshop.                                 
+- Adobe Illustrator.
 - Adobe XD
 
 

@@ -16,5 +16,8 @@ Mohamed Hossam is a recent graduate from the College of CIS in Mansoura with an 
 - Java
 - Android
 - Rest API
+- Adobe Photoshop.
+- Adobe Illustrator.
+- Adobe XD
 
 

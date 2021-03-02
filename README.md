@@ -13,9 +13,9 @@ Mohamed Hossam is a recent graduate from the College of CIS in Mansoura with an 
 - Swagger Api   
 - Hive  
 - Getx State management 
+- Rest API  
 - Java
-- Android 
-- Rest API                                            
+- Android                                           
 - Adobe Photoshop.                                 
 - Adobe Illustrator.
 - Adobe XD

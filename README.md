@@ -10,6 +10,7 @@ Mohamed Hossam is a recent graduate from the College of CIS in Mansoura with an 
 ### Technical Skills
 - Dart                                              
 - Flutter  
+- Dio / Http
 - Swagger Api   
 - Hive  
 - Getx State management 

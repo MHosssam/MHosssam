@@ -2,10 +2,10 @@
 
 Mohamed Hossam is a recent graduate from the College of CIS in Mansoura with an excellent grade in his graduation project
 
-- 🔭 I’m currently working at Bdaya development - Egypt
-- 🌱 I’m currently learning Flutter
-- 👯 I’m looking to collaborate on Flutter & Android
-- 📫 How to reach me: send me email on mhosssam000@gmail.com
+- 🔭 I’m currently working at Bdaya development - Egypt.
+- 🌱 I’m currently Former Flutter Developer.
+- 👯 I’m looking to collaborate on Flutter & Android.
+- 📫 How to reach me: send me email on mhosssam000@gmail.com .
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
@@ -21,12 +21,10 @@ Mohamed Hossam is a recent graduate from the College of CIS in Mansoura with an 
 - Swagger Api   
 - Hive  
 - Getx State management 
+- Bloc State management 
 - Rest API  
 - Java
-- Android                                           
-- Adobe Photoshop.                                 
-- Adobe Illustrator.
-- Adobe XD
+- Android   
 
 
 

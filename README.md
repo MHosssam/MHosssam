@@ -1,14 +1,15 @@
-### Mohamed Hossam 👋
+## Mohamed Hossam 👋
 
-Mohamed Hossam is a recent graduate from the College of CIS in Mansoura with an excellent grade in his graduation project
+Mohamed Hossam is a graduate in 2020 from the College of CIS in Mansoura with an excellent grade in his graduation project
+Graduation project: Decision Support System For Startups.
 
 - 🔭 I’m currently working at Bdaya development - Egypt.
 - 🌱 I’m currently Flutter Developer.
 - 👯 I’m looking to collaborate on Flutter & Android.
 - 📫 How to reach me: send me email on mhosssam000@gmail.com .
 
-### Technical Skills
-- Dart                                              
+## Technical Skills
+- Dart                                                    
 - Flutter  
 - Dio / Http
 - Swagger Api   
@@ -19,7 +20,8 @@ Mohamed Hossam is a recent graduate from the College of CIS in Mansoura with an 
 - Java
 - Android   
 
-I am a member of a good flutter team, my role is focused on developing UI.I made a lot of apps. I Practice a lot of things in this company like:
+## Bdaya development company
+### I am a member of a good flutter team, my role is focused on developing UI.I made a lot of apps. I Practice a lot of things in this company like :
 - GetX StateManagement.
 - Making app as mobile and web.
 - Making animation views using lottie and flare packages.

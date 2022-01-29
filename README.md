@@ -8,33 +8,17 @@ Graduation project: Decision Support System For Startups.
 - 👯 I’m looking to collaborate on Flutter & Android.
 - 📫 How to reach me: send me email on mhosssam000@gmail.com .
 
-## Technical Skills
-- Dart                                                    
-- Flutter  (mobile - web)
-- Dio / Http
-- Swagger Api   
-- Hive  
-- Getx State management 
-- Bloc State management 
-- Rest API  
-- Java
-- Android   
 
+<div align="center">
 
-| ![MHosssam Github Stats] | ![Top Langs] | 
-|:------:|:-------:|
-|![MHosssam Github Stats](https://github-readme-stats.vercel.app/api?username=MHosssam&show_icons=true&theme=dracula)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MHosssam&exclude_repo=ualehosaini.github.io,free-for-dev&layout=compact&langs_count=8)](https://github.com/ualehosaini)|
-| ![MHosssam] |
-|!<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MHosssam&" alt="MHosssam" /></p> |
-<!-- ![MHosssam Github Stats](https://github-readme-stats.vercel.app/api?username=MHosssam&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MHosssam&exclude_repo=ualehosaini.github.io,free-for-dev&layout=compact&langs_count=8)](https://github.com/ualehosaini) -->
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MHosssam&" alt="MHosssam" /></p>  -->
-
-
-
-
-
-
-
+| MHosssam Github Stats | Technical Skills |
+|:------------------------:|:------------------------:|
+|![MHosssam Github Stats](https://github-readme-stats.vercel.app/api?username=MHosssam&show_icons=true&theme=dracula)| Dart , Flutter  (mobile - web) , Java , Android |
+|Top Langs | State Management |
+|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MHosssam&exclude_repo=ualehosaini.github.io,free-for-dev&layout=compact&langs_count=8)](https://github.com/ualehosaini)|  Getx State management , Bloc State management |
+| Streak | Caching && Network |
+|<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MHosssam&" alt="MHosssam" /></p> |  Dio / Http , Swagger API , Hive , Firebase |
+ 
+</div>
 
 

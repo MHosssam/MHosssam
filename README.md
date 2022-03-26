@@ -17,7 +17,7 @@ Graduation project: Decision Support System For Startups.
 |Top Langs | State Management |
 |[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MHosssam&exclude_repo=ualehosaini.github.io,free-for-dev&layout=compact&langs_count=8)](https://github.com/ualehosaini)|  Getx State management , Bloc State management |
 | Streak | Caching && Network |
-|<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MHosssam&" alt="MHosssam" /></p> |  Dio / Http , Swagger API , Hive , Firebase |
+|<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MHosssam&" alt="MHosssam" /></p> |  Dio / Http , Swagger API , Firebase , Hive ,sharedpreferences  |
  
 </div>
 

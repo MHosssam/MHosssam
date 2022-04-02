@@ -12,20 +12,24 @@ Graduation project: Decision Support System For Startups.
 #### Technical Skills
   - Object Oriented Programming (OOP)
   - Data Structures
-  - Problem Solving 
   - Flutter
   - Dart
   - Firebase
+  - State Management (Bloc, GetX)
   - REST APIS (Dio & HTTP Packages)
+  - Swagger API
   - Hive
   - sharedpreferences
-  - State Management (Bloc, Get X)
-  - I'm currently working on improving my skills as a mobile application developer
-
-![MHosssam Github Stats](https://github-readme-stats.vercel.app/api?username=MHosssam&show_icons=true&theme=dracula)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MHosssam&exclude_repo=ualehosaini.github.io,free-for-dev&layout=compact&langs_count=8)](https://github.com/ualehosaini)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MHosssam&" alt="MHosssam" /></p> 
+  
+  
+  
+| Github Stats |
+|:------------:|
+|![MHosssam Github Stats](https://github-readme-stats.vercel.app/api?username=MHosssam&show_icons=true&theme=dracula)|
+| Top Langs |
+|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MHosssam&exclude_repo=ualehosaini.github.io,free-for-dev&layout=compact&langs_count=8)](https://github.com/ualehosaini)|
+| streak |
+|<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MHosssam&" alt="MHosssam" /></p> |
  
 
 

@@ -7,19 +7,21 @@ Graduation project: Decision Support System For Startups.
 - 🌱 I’m currently Flutter Developer.
 - 👯 I’m looking to collaborate on Flutter & Android.
 - 📫 How to reach me: send me email on mhosssam000@gmail.com .
-#### Softwar Engineer
+#### Software Engineer
   - Flutter developer 
 #### Technical Skills
   - Object Oriented Programming (OOP)
   - Data Structures
+  - Git
   - Flutter
   - Dart
   - Firebase
   - State Management (Bloc , GetX , Provider)
-  - REST APIS (Dio & HTTP Packages)
+  - REST APIS (Dio & HTTP Packages , Swagger Api)
   - Swagger API
   - Hive
   - sharedpreferences
+  - design patterns (MVVM , MVC)
   
   
   

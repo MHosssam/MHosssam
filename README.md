@@ -47,12 +47,11 @@ Graduation project: Decision Support System For Startups.
 </a>
 
 <br/><br/>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MHosssam&" alt="MHosssam" /></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MHosssam&" alt="MHosssam" />
+
  
 ## Social media :mailbox_with_no_mail:
 
-
-<!-- [![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MZzznn) -->
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:MHosssam000@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-hossam-963742208/)
 [![Facebook](https://img.shields.io/badge/-Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/MHosssam0)

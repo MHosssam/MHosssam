@@ -1,4 +1,4 @@
-## Mohamed Hossam <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px"></h1>
+## Mohamed Hossam <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px" height="30px"></h1>
 
 Mohamed Hossam is a graduate in 2020 from the College of CIS in Mansoura with an excellent grade in his graduation project
 Graduation project: Decision Support System For Startups.

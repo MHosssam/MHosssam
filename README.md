@@ -16,9 +16,8 @@ Graduation project: Decision Support System For Startups.
   - Flutter
   - Dart
   - Firebase
-  - State Management (Bloc , GetX , Provider)
+  - State Management (Bloc , GetX , Provider , Riverpod)
   - REST APIS (Dio , HTTP Packages , Swagger Api)
-  - Swagger API
   - Hive
   - sharedpreferences
   - design patterns (MVVM , MVC)

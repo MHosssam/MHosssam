@@ -3,7 +3,6 @@
 Mohamed Hossam is a graduate in 2020 from the College of CIS in Mansoura with an excellent grade in his graduation project
 Graduation project: Decision Support System For Startups.
 
-- 🔭 I’m currently working at Bdaya development - Egypt.
 - 🌱 I’m currently Flutter Developer.
 - 👯 I’m looking to collaborate on Flutter & Android.
 - 📫 How to reach me: send me email on mhosssam000@gmail.com .

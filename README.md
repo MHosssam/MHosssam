@@ -26,13 +26,7 @@
 </a> <a href="https://www.adobe.com/mena_en/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png" alt="Adobe_XD" width="40" height="40"/> </a>
 </p>
 
-## Github Statistics 📈  
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MHosssam&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="MHosssam" /></p>
-
-<p align="left"><img width="45%" align="left" src="https://github-readme-stats.vercel.app/api?username=MHosssam&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="MHosssam" /></p>
-<p align="right">
-  <img width="45%" align="right" sy src="https://github-readme-stats.vercel.app/api/top-langs/?username=MHosssam&layout=compact&theme=radical&hide_border=true" alt="MHosssam" /></p>
 
 
  

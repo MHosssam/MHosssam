@@ -2,10 +2,9 @@
 
 - 🌱 I’m currently Flutter Developer.
 - 👯 I’m looking to collaborate on Flutter & Android.
-- 📫 How to reach me: send me email on mhosssam000@gmail.com .
 
 
-## Social media :mailbox_with_no_mail:
+## :mailbox_with_no_mail: How to reach me: Social media 
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:MHosssam000@gmail.com)
 [![Whatsapp](https://img.shields.io/badge/-Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=201004690385)

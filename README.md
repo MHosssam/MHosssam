@@ -1,32 +1,47 @@
-## Hi there, I'm Mohamed Hossam <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px" height="30px"></h1>
-
-- 🌱 I’m currently Flutter Developer.
-- 👯 I’m looking to collaborate on Flutter & Android.
-
-
-## :mailbox_with_no_mail: How to reach me: Social media 
-
-[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:MHosssam000@gmail.com)
-[![Whatsapp](https://img.shields.io/badge/-Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=201004690385)
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-hossam-963742208/)
-
-
-## 🛠  Languages and Tools 
-
-<br/>
-<p align="center">  
-<a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>    
-</a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://swagger.io/" target="_blank" rel="noreferrer"> <img src="https://static1.smartbear.co/swagger/media/assets/images/swagger_logo.svg" alt="postman" width="150" height="40"/>
-</a> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-</a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-</a> <a href="https://www.adobe.com/mena_en/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png" alt="Adobe_XD" width="40" height="40"/> </a>
-</a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-512/free-figma-3521426-2944870.png?f=webp&w=256" alt="Figma" width="40" height="40"/> </a>
-</a> <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="Figma" width="40" height="40"/> </a>
+<h1 align="center">Mohamed Hossam</h1>
+<p align="center"><b>Product Engineer @ Fudex</b> · Cairo, Egypt</p>
+<p align="center">
+I take products from a business requirements doc to the App Store and the production server:<br/>
+mobile apps, the backend and admin dashboard behind them, payments, and the release pipeline.
 </p>
 
+<p align="center">
+  <a href="mailto:MHosssam000@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/mohamed-hossam-963742208/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+</p>
 
+---
 
+### What I do
 
- 
+- **Own features end to end.** I read the BRD, turn it into a plan and sprints, build the Flutter app and the Laravel API together, and ship both.
+- **Close the gaps between business and code.** I review requirement documents against what's built, flag missing cases, and raise the open questions with the product owner before they become bugs.
+- **Ship and run what I build.** Store releases (APK, AAB, iOS), server deployment, demo and live environments, payment gateway integration.
+- **Work AI-first.** I use Claude Code and agent workflows daily for planning, code review, audits, and repetitive engineering work, with tests as the gate.
 
+### Products I've built
+
+The source for these is private (client work), so here's what each one does and what I owned.
+
+| Product | What it is | My part |
+|---|---|---|
+| **Waynah** | Hyperlocal price discovery: shows users the price and availability of products in shops near them before they go. Shops subscribe to plans. | Flutter app, Laravel backend and admin dashboard, subscription plans and trials, Geidea payments, landing page, demo and live deployments |
+| **24 Drinks** | Drinks ordering with pre-order and branch pickup, loyalty points and tiers, wallet, and franchise reporting with AI-assisted analytics | Flutter app, Laravel backend, landing page, store listings, release builds |
+| **Alekhtyar** | Law firm management: cases, clients, lawyer assignments, and an admin panel with 2FA, built toward a SaaS model | Laravel backend, Flutter app, server setup and deployment |
+| **Qasr AlBaron** | Restaurant ordering platform: customer app, delivery driver app, website, and backend | Flutter customer and delivery apps, Next.js website, Laravel backend |
+| **Pure Aqua** | Water delivery with prepaid coupon booklets: a customer app and a field app for sales delegates | Customer and provider Flutter apps |
+| **Addad** | Student services marketplace connecting university students with service providers | Customer and provider Flutter apps, Laravel backend |
+
+Also: PKey (peer-to-peer parking marketplace), Bnoon, Mindor, Rinzo, Talent, FreshBid.
+
+### Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,laravel,php,mysql,nextjs,ts,firebase,git,github,linux,postman,figma" alt="Flutter, Dart, Laravel, PHP, MySQL, Next.js, TypeScript, Firebase, Git, GitHub, Linux, Postman, Figma"/>
+</p>
+
+**Mobile:** Flutter, Dart, Clean Architecture, Bloc / Cubit, Firebase (FCM, Crashlytics), deep links, flavors<br/>
+**Backend:** Laravel, PHP, MySQL, REST APIs, Sanctum auth, admin dashboards, feature tests<br/>
+**Web:** Next.js, TypeScript, landing pages<br/>
+**Shipping:** App Store and Google Play releases, VPS deployment, payment gateways (Geidea, Paymob)<br/>
+**Product:** BRD analysis, sprint planning, requirement audits, Figma handoff

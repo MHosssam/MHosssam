@@ -30,7 +30,7 @@ The source for these is private (client work), so here's what each one does and 
 | **Alekhtyar**<br/>[alekhtiyar.com](https://alekhtiyar.com) | Law firm management: cases, clients, lawyer assignments, a client portal, and an admin panel with 2FA, built toward a SaaS model | Laravel backend and admin dashboard, website and client portal, Flutter app, server setup and deployment |
 | **Qasr AlBaron**<br/>_In development_ | Restaurant ordering platform: customer app, delivery driver app, website, and backend | Flutter customer and delivery apps, Next.js website, Laravel backend |
 | **Pure Aqua**<br/>_In development_ | Water delivery with prepaid coupon booklets: a customer app and a field app for sales delegates | Customer and provider Flutter apps |
-| **StudyMate**<br/>Student: [Play](https://play.google.com/store/apps/details?id=com.fudex.StudyMate) · [App Store](https://apps.apple.com/sa/app/study-mate/id6756254940)<br/>Provider: [Play](https://play.google.com/store/apps/details?id=com.fudex.StudyMateProvider) · [App Store](https://apps.apple.com/sa/app/pro-study-mate/id6756259530) | Student services marketplace connecting university students with service providers | Student and provider Flutter apps, Laravel backend |
+| **Bnoon**<br/>Parent: [Play](https://play.google.com/store/apps/details?id=com.fudex.banoon_app.bnoon) · [App Store](https://apps.apple.com/us/app/bnoon-safe-school-trip/id6747968090)<br/>Driver: [Play](https://play.google.com/store/apps/details?id=com.fudex.banoon_app.bnoon.driver) · [App Store](https://apps.apple.com/us/app/bnoon-driver/id6747967765) | Safe school trips: parents track and manage their children's rides, and drivers handle pickups and drop-offs | Parent and driver Flutter apps (one codebase, two flavors) |
 
 ### Published apps
 
@@ -38,7 +38,7 @@ More apps I built that are live on Google Play and the App Store:
 
 | App | What it does | Links |
 |---|---|---|
-| **Bnoon** | Safe school trips for parents, schools, and drivers | Parent: [Play](https://play.google.com/store/apps/details?id=com.fudex.banoon_app.bnoon) · [App Store](https://apps.apple.com/us/app/bnoon-safe-school-trip/id6747968090)<br/>Driver: [Play](https://play.google.com/store/apps/details?id=com.fudex.banoon_app.bnoon.driver) · [App Store](https://apps.apple.com/us/app/bnoon-driver/id6747967765) |
+| **StudyMate** | Student services marketplace connecting university students with service providers | Student: [Play](https://play.google.com/store/apps/details?id=com.fudex.StudyMate) · [App Store](https://apps.apple.com/sa/app/study-mate/id6756254940)<br/>Provider: [Play](https://play.google.com/store/apps/details?id=com.fudex.StudyMateProvider) · [App Store](https://apps.apple.com/sa/app/pro-study-mate/id6756259530) |
 | **PKey** | Peer-to-peer parking marketplace | [Play](https://play.google.com/store/apps/details?id=com.fudex.pkey) · [App Store](https://apps.apple.com/sa/app/pkey-parking-spot/id6753162138) |
 | **Smart B** | Connects construction projects with contractors and suppliers | [Play](https://play.google.com/store/apps/details?id=com.fudex.smartproject) · [App Store](https://apps.apple.com/sa/app/smart-b-%D8%B3%D9%85%D8%A7%D8%B1%D8%AA-%D8%A8%D9%8A-%D9%84%D9%84%D8%A8%D9%86%D8%A7%D8%A1/id6740321900) |
 | **Mindor** | Mental wellbeing: sessions with specialists and daily exercises | [Play](https://play.google.com/store/apps/details?id=com.fudex.mindor) · [App Store](https://apps.apple.com/us/app/mindor/id6755929316) |
